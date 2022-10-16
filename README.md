@@ -1,1 +1,1 @@
-# aws-CI-CD-Pipe-ine
+# aws-CI-CD-Pipe-line
